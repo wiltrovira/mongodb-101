@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-mongodb-query",
+  "name": "nodejs-mongodb-101",
   "version": "0.1.0",
   "description": "nodejs mongodb query básico",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wiltrovira/nodejs-mongodb-query.git"
+    "url": "git+https://github.com/wiltrovira/nodejs-mongodb-101.git"
   },
   "keywords": [
     "nodejs",
@@ -20,9 +20,9 @@
   "author": "Wilt Rovira",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wiltrovira/nodejs-mongodb-query/issues"
+    "url": "https://github.com/wiltrovira/nodejs-mongodb-101/issues"
   },
-  "homepage": "https://github.com/wiltrovira/nodejs-mongodb-query#readme",
+  "homepage": "https://github.com/wiltrovira/nodejs-mongodb-101#readme",
   "dependencies": {
     "mongodb": "^2.2.31"
   }
